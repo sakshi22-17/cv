@@ -1,0 +1,18 @@
+body{
+  background-color: #e0fcff;
+}
+h1{
+  color:#e61c5d;
+}
+h3{
+  color:#e61c5d;
+}
+.circular{
+  border-radius: 100%;
+  width: 100%;
+}
+.top-section{
+  height: 218px;
+  width: 218px;
+  text-align:center;
+}
